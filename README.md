@@ -9,13 +9,6 @@ This project aims to predict the popularity of YouTube videos using machine lear
 - Optimization experiments on hyperparameters such as learning rate, max depth, number of estimators, etc.
 - Comparative study of **Linear Regression** and **XGBoost** for prediction accuracy
 
-## Team Members & Contributions
-| Name          | Enrollment No.   | Contribution  |
-|--------------|-----------------|--------------|
-| **Daksh Singh**  | 01596303121  | Attribute fusion, Documentation, Model tuning |
-| **Aditya Kumar** | 02396303121  | Data collection, Preprocessing, Model tuning |
-| **Uday Sangwan** | 35396303121  | Dataset preparation, Vector conversion |
-
 ## Dataset
 The dataset used for this project can be accessed [here](https://drive.google.com/drive/folders/1jT3CGME4u2EFKSniXYCN9YlB5RTaSZ34?usp=sharing).
 
